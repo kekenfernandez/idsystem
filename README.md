@@ -35,5 +35,7 @@ All sensitive data, credentials, and organization-specific details have been rem
 ---
 
 ## 📸 Screenshots
-![Dashboard](screenshots/dashboard.png)
-![Attendance](screenshots/attendance.png)
+![Attendance](screenshots/Kiosk.png)
+![Dashboard](screenshots/Dashboard.png)
+![Attendance](screenshots/Attendance.png)
+![Attendance](screenshots/SMS.png)

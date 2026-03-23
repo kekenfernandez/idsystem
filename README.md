@@ -39,3 +39,4 @@ All sensitive data, credentials, and organization-specific details have been rem
 ![Dashboard](screenshots/Dashboard.png)
 ![Attendance](screenshots/Attendance.png)
 ![Attendance](screenshots/SMS.png)
+![Attendance](screenshots/SMS_Notif.png)

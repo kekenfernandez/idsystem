@@ -1,0 +1,94 @@
+.recent-card-name {
+	font-size: 0.8rem;
+	font-weight: bold;
+}
+
+.bg-maroon {
+	background-color: rgb(73, 5, 5);
+}
+
+#rfidForm input:focus {
+	outline: none;
+}
+
+#rfidno {
+	border: none;
+	background: transparent;
+	color: transparent;
+}
+
+body::-webkit-scrollbar {
+	display: none;
+	/* Hide Scrollbar */
+}
+
+.recent-image {
+	height: 250px;
+}
+
+.current-image {
+	height: 800px;
+}
+
+.custom-nav {
+	border-radius: 5px;
+}
+
+.current-time {
+	font-weight: 500;
+}
+
+.card {
+	overflow: hidden;
+	box-shadow: rgba(0, 0, 0, 0.212) 0px 5px 10px;
+}
+
+.interval-alert {
+	position: absolute;
+	bottom: 150px;
+	width: 100%;
+	text-align: center;
+	border: 0;
+	border-radius: 0;
+}
+
+.hide {
+	display: none;
+}
+
+@media only screen and (max-width: 1200px) {
+	/* body {
+		background-color: lightblue;
+	} */
+
+	.current-name {
+		font-size: 1.4rem;
+	}
+
+	.recent-card-name {
+		font-size: 0.6rem;
+	}
+
+	.recent-time {
+		font-size: 0.6rem;
+	}
+
+	.recent-date {
+		font-size: 0.7rem;
+	}
+
+	.recent-image {
+		height: 150px;
+	}
+
+	.current-image {
+		height: 550px;
+	}
+
+	#clock {
+		font-size: 1.5rem;
+	}
+}
+
+/* @media only screen and (max-width: 1024px) and (max-height: 768px) {
+} */
